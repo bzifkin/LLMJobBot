@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "python-openai-autoblocks-example"
+version = "0.0.0"
+description = "Automatic tracing of a LangChain pipeline"
+authors = ["Autoblocks Engineering <engineering@autoblocks.ai>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+autoblocksai = "^0.0.22"
+python-dotenv = "^1.0.0"
+langchain = "^0.0.319"
+openai = "^0.28.1"
+beautifulsoup4 = "^4.12.2"
+parsel = "^1.8.1"
+scrapy = "^2.11.0"
+google-api-python-client = "^2.104.0"
+llama-hub = "^0.0.39"
+llama-cpp-python = "^0.2.11"
+requests-html = "^0.10.0"
+mechanicalsoup = "^1.3.0"
+apify-client = "^1.5.0"
+chromadb = "^0.4.14"
+scrapfly-sdk = "^0.8.9"

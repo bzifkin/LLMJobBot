@@ -1,0 +1,20 @@
+Using version ^2.104.0 for google-api-python-client
+
+Updating dependencies
+Resolving dependencies...
+
+Writing lock file
+
+Package operations: 11 installs, 0 updates, 0 removals
+
+  • Installing cachetools (5.3.1)
+  • Installing protobuf (4.24.4)
+  • Installing pyparsing (3.1.1)
+  • Installing rsa (4.9)
+  • Installing google-auth (2.23.3)
+  • Installing googleapis-common-protos (1.61.0)
+  • Installing httplib2 (0.22.0)
+  • Installing google-api-core (2.12.0)
+  • Installing google-auth-httplib2 (0.1.1)
+  • Installing uritemplate (4.1.1)
+  • Installing google-api-python-client (2.104.0)
